@@ -78,3 +78,4 @@ if (isNaN(age) || age <= 0 || age > 120) {
 result.textContent = "Данные сохранены: ${name}, ${age} лет";
 result.style.color = "green";
 form.reset();
+jknfrtvbnfbvjn
